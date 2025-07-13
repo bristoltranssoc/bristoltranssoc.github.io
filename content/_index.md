@@ -1,5 +1,5 @@
 +++
 [extra]
-hero_caption = "MEowwwwww"
-hero_title = "Meow"
+hero_caption = "by students, for students"
+hero_title = "University of Bristol Trans Society"
 +++
